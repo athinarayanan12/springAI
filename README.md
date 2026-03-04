@@ -1,10 +1,10 @@
-🚀 Spring AI Powered Application
+#🚀 Spring AI Powered Application
 
 An intelligent backend application built using Spring Boot + Spring AI, integrating AI capabilities with database-driven contextual responses.
 
 This project demonstrates how to build a structured, production-style AI integration instead of simple prompt-based API calls.
 
-🧠 Project Overview
+##🧠 Project Overview
 
 This application integrates:
 	•	Dynamic Prompt Engineering
@@ -16,14 +16,14 @@ This application integrates:
 
 The system fetches real-time data from the database, injects structured context into prompts, and returns intelligent, business-driven responses.
 
-🛠 Tech Stack
+##🛠 Tech Stack
 	•	Java
 	•	Spring Boot
 	•	Spring AI
 	•	REST APIs
 	•	OpenAI API
   
-🔥 Key Features
+##🔥 Key Features
 
 ✅ Prompt Engineering
 	•	Structured system + user prompts
